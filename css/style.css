@@ -237,7 +237,7 @@ margin-right: 0px;
         margin: 50px;
     }
     .htl-des{
-        margin: 50px;
+        margin: 10px;
         width:1000px;
     }
 
@@ -275,5 +275,18 @@ margin-right: 0px;
      
        a:hover { text-decoration: none; }
        a:active { text-decoration: none; } */
-       
-  
+
+.carousel-item{
+    height: 500px;
+    width: 650px;
+    margin-left: 175px;
+}
+
+.carousel-control-next{
+    background-color:rgba(185, 181, 181, 0.849);
+
+}
+.carousel-control-prev{
+    background-color: rgba(185, 181, 181, 0.849);
+
+}
